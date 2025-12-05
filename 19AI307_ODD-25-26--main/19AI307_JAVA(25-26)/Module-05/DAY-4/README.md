@@ -19,8 +19,8 @@ To create and execute a thread using the `Runnable` interface, set its name from
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: PRIYAADARSHINI K
-RegisterNumber:  212223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
