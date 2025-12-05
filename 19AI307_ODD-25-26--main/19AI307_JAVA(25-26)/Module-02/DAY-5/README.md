@@ -19,8 +19,8 @@ To define class Game with: Static variable maxScore = 500 Print max score via 3 
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: PRIYAADARSHINI K 
-RegisterNumber:  212223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
