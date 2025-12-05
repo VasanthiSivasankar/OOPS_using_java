@@ -22,8 +22,8 @@ To write a Java program that demonstrates how a NullPointerException occurs when
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: PRIYAADARSHINI K
-RegisterNumber:  212223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
