@@ -52,8 +52,8 @@ To simulate an airport Radar Control Tower system using the **Singleton design p
  ```
 /*
 Program to implement a SOLID Principles in Java Program
-Developed by: PRIYAADARSHINI K
-RegisterNumber:  212223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
