@@ -20,8 +20,8 @@ To write a Java program to create a class called BankAccount with private instan
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: PRIYAADARSHINI K
-RegisterNumber:  212223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
