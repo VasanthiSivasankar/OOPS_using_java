@@ -19,8 +19,8 @@ To write a Java program that reads a number in string format, converts it into a
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: PRIYAADARSHINI K
-RegisterNumber:  21223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
