@@ -44,8 +44,8 @@ and compute the final payable amount based on purchase weight and gold rate per 
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: PRIYAADARSHINI K 
-RegisterNumber:  212223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
