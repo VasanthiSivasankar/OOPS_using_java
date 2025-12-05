@@ -27,8 +27,8 @@ To write a Java program that calculates the area of different shapes (square, re
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: PRIYAADARSHINI K
-RegisterNumber:  212223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
