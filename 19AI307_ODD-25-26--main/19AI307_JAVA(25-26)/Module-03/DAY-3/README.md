@@ -34,8 +34,8 @@ ArcadeGame and PuzzleGame, each implementing its own scoring logic.
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: PRIYAADARSHINI K
-RegisterNumber:  212223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
