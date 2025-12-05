@@ -51,8 +51,8 @@ To implement a simple **Student Management System** using the **MVC (Model–Vie
  ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: PRIYAADARSHINI K
-RegisterNumber:  212223240126
+Developed by:  VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
