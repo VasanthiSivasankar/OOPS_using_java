@@ -33,8 +33,8 @@ The program should accept book details from the user, store them inside a `Libra
  ```
 /*
 Program to implement a Composition Concepts in Java
-Developed by: PRIYAADARSHINI K
-RegisterNumber:  212223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
