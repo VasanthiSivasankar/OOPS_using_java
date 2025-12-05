@@ -22,8 +22,8 @@ To write a Java program that serializes a list of `Student` objects into a file 
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: PRIYAADARSHINI K
-RegisterNumber:  212223240126
+Developed by: VASANTHI SIVASANKAR
+RegisterNumber:  212223040234
 */
 ```
 
